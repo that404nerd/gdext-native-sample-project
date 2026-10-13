@@ -1,2 +1,4 @@
-CMakeLists.txt.user
-.vscode/settings.json
+# Godot 4+ specific ignores
+.godot/
+/android/
+build/
